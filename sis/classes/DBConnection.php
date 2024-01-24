@@ -4,10 +4,10 @@ if(!defined('DB_SERVER')){
 }
 class DBConnection{
 
-    private $host = 'sql308.infinityfree.com';
-    private $username = 'if0_35850519';
-    private $password = 'Yamm235795';
-    private $database = 'if0_35850519_sis_db';
+    private $host = 'localhost';
+    private $username = 'root';
+    private $password = '';
+    private $database = 'sis_db';
     
     public $conn;
     
