@@ -3,8 +3,8 @@ $dev_data = array('id'=>'-1','firstname'=>'Developer','lastname'=>'','username'=
 if(!defined('base_url')) define('base_url','http://localhost/sis/');
 if(!defined('base_app')) define('base_app', str_replace('\\','/',__DIR__).'/' );
 if(!defined('dev_data')) define('dev_data',$dev_data);
-if(!defined('DB_SERVER')) define('DB_SERVER',"localhost");
-if(!defined('DB_USERNAME')) define('DB_USERNAME',"root");
-if(!defined('DB_PASSWORD')) define('DB_PASSWORD',"");
-if(!defined('DB_NAME')) define('DB_NAME',"sis_db");
+if(!defined('DB_SERVER')) define('DB_SERVER',"sql308.infinityfree.com");
+if(!defined('DB_USERNAME')) define('DB_USERNAME',"if0_35850519");
+if(!defined('DB_PASSWORD')) define('DB_PASSWORD',"Yamm235795");
+if(!defined('DB_NAME')) define('DB_NAME',"if0_35850519_sis_db");
 ?>
